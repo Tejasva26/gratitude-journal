@@ -1,2 +1,5 @@
-node_modules
+# Ignore node_modules and sensitive files
+node_modules/
+.env
+
 
